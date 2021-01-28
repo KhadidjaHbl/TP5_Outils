@@ -96,19 +96,7 @@ public class Bus implements Serializable {
 
 
 
-	public void setLeaveFrom(String leaveFrom) {
-		this.leaveFrom = leaveFrom;
-	}
-
-
-
-
-
-	public String getGoingTo() {
-		return goingTo;
-	}
-
-
+	
 
 
 
